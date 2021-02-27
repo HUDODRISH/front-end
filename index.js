@@ -1,4 +1,4 @@
-//const { connect } = require("mongodb");
+const { connect } = require("mongodb");
 var express = require("express");
 var app = express();
 
